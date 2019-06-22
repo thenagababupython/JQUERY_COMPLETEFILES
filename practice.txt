@@ -1,0 +1,10 @@
+jquery:
+=====================================
+css----->bootstrap--btn btn-primary
+js------>jquery---->write less do more--->js functions are their
+
+1.simplify the DOM manipulation 
+2.jquery for plugions
+3.jquery used to validation
+4.jquery ajax calls
+
