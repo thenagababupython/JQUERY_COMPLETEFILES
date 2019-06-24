@@ -8,3 +8,5 @@ js------>jquery---->write less do more--->js functions are their
 3.jquery used to validation
 4.jquery ajax calls
 
+comprasations:
+======================================================================================================================================
