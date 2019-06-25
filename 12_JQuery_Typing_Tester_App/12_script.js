@@ -120,3 +120,10 @@ let showModal = () => {
     // display timing details
     $('#congrats-modal').modal('show');
 };
+
+/*
+1.start timer
+2.change color
+3.reset button
+4.display dynmic data
+5.play sounds*/
