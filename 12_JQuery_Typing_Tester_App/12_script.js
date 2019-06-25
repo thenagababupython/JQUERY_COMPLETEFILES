@@ -126,4 +126,5 @@ let showModal = () => {
 2.change color
 3.reset button
 4.display dynmic data
-5.play sounds*/
+5.play sounds
+6.congrulations model */
